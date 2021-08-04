@@ -78,6 +78,8 @@ namespace Console1
             Console.WriteLine ($"Weekday number = {day}");
             Console.WriteLine(" ");
             Console.WriteLine(" "); 
+            Console.WriteLine(" ");
         }
+
     }
 }
