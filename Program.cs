@@ -55,8 +55,8 @@ namespace Console1
             double num = 41;
             double num1 = num%10;
             double num2 = Math.Round (num/10, 0);
-            Console.WriteLine(num1); Console.WriteLine(num2);
-            Console.WriteLine("Could not place digits in one line");
+            Console.WriteLine($"Result = {num1}{num2}");
+            Console.WriteLine(" ");
             Console.WriteLine(" ");
 
         //Task 5 //
